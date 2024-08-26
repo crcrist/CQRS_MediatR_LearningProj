@@ -1,15 +1,24 @@
 ﻿@page "/"
+@using LearningLibrary.Models
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
-
+<u1>
+    @foreach (var p in people)
+    {
+        <li>@p.FirstName @p.LastName</li>   
+    }
+</u1>
 @code {
+    List<PersonModel> people;
+
     protected override Task OnInitializedAsync()
     {
-        return base.OnInitializedAsync();
+        throw new NotImplementedException();
+        // get list of people
     }
 
 }

@@ -1,10 +1,15 @@
 using CQRS_Mediatr_LearningProj.Components;
+using LearningLibrary.DataAccess;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddSingleton<IDataAccess, DemoDataAccess>();
+builder.Services.AddMediatR(typeof(LearningLibraryMediatrEntryPoint));
 
 var app = builder.Build();
 

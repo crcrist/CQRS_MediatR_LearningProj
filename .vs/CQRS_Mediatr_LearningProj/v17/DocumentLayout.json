@@ -3,17 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|c:\\users\\connor\\source\\repos\\cqrs_mediatr_learningproj\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C15CC288-E1A0-4804-A286-8A1A647205D3}|..\\LearningLibrary\\LearningLibrary.csproj|c:\\users\\connor\\source\\repos\\learninglibrary\\dataaccess\\demodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C15CC288-E1A0-4804-A286-8A1A647205D3}|..\\LearningLibrary\\LearningLibrary.csproj|c:\\users\\connor\\source\\repos\\learninglibrary\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C15CC288-E1A0-4804-A286-8A1A647205D3}|..\\LearningLibrary\\LearningLibrary.csproj|c:\\users\\connor\\source\\repos\\learninglibrary\\learninglibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|c:\\users\\connor\\source\\repos\\cqrs_mediatr_learningproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,53 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T12:06:11.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonModel.cs",
-              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\LearningLibrary\\Models\\PersonModel.cs",
-              "RelativeDocumentMoniker": "..\\LearningLibrary\\Models\\PersonModel.cs",
-              "ToolTip": "C:\\Users\\Connor\\source\\repos\\LearningLibrary\\Models\\PersonModel.cs",
-              "RelativeToolTip": "..\\LearningLibrary\\Models\\PersonModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T11:49:47.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DemoDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\LearningLibrary\\DataAccess\\DemoDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\LearningLibrary\\DataAccess\\DemoDataAccess.cs",
-              "ToolTip": "C:\\Users\\Connor\\source\\repos\\LearningLibrary\\DataAccess\\DemoDataAccess.cs",
-              "RelativeToolTip": "..\\LearningLibrary\\DataAccess\\DemoDataAccess.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T11:49:12.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LearningLibrary",
-              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\LearningLibrary\\LearningLibrary.csproj",
-              "RelativeDocumentMoniker": "..\\LearningLibrary\\LearningLibrary.csproj",
-              "ToolTip": "C:\\Users\\Connor\\source\\repos\\LearningLibrary\\LearningLibrary.csproj",
-              "RelativeToolTip": "..\\LearningLibrary\\LearningLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-26T11:48:50.524Z",
+              "WhenOpened": "2024-08-26T12:45:48.26Z",
               "EditorCaption": ""
             },
             {
