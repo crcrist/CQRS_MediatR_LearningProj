@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Mediatr_LearningProj", "CQRS_Mediatr_LearningProj.csproj", "{724AC3F7-5C5D-413A-BAA9-1869D2037520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS_Mediatr_LearningProj", "CQRS_Mediatr_LearningProj.csproj", "{724AC3F7-5C5D-413A-BAA9-1869D2037520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningLibrary", "..\LearningLibrary\LearningLibrary.csproj", "{C15CC288-E1A0-4804-A286-8A1A647205D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningLibrary", "..\LearningLibrary\LearningLibrary.csproj", "{C15CC288-E1A0-4804-A286-8A1A647205D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApi", "..\DemoApi\DemoApi.csproj", "{B875904B-0BDF-40A1-AA0A-3E25916D9711}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C15CC288-E1A0-4804-A286-8A1A647205D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C15CC288-E1A0-4804-A286-8A1A647205D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C15CC288-E1A0-4804-A286-8A1A647205D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B875904B-0BDF-40A1-AA0A-3E25916D9711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B875904B-0BDF-40A1-AA0A-3E25916D9711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B875904B-0BDF-40A1-AA0A-3E25916D9711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B875904B-0BDF-40A1-AA0A-3E25916D9711}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

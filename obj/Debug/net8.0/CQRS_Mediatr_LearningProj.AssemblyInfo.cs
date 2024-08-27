@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CQRS_Mediatr_LearningProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a57a3b39105a061fc56bae1cc9addec754d3758")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa9a9ca0d31d647abb6f45f110bb13ded1d626c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CQRS_Mediatr_LearningProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CQRS_Mediatr_LearningProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
