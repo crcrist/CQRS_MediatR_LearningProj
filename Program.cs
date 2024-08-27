@@ -1,5 +1,7 @@
 using CQRS_Mediatr_LearningProj.Components;
+using LearningLibrary;
 using LearningLibrary.DataAccess;
+
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,8 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+// Register IDataAccess and MediatR
 builder.Services.AddSingleton<IDataAccess, DemoDataAccess>();
-builder.Services.AddMediatR(typeof(LearningLibraryMediatrEntryPoint));
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(LearningLibraryMediatrEntryPoint).Assembly));
 
 var app = builder.Build();
 

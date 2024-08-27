@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|c:\\users\\connor\\source\\repos\\cqrs_mediatr_learningproj\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|c:\\users\\connor\\source\\repos\\cqrs_mediatr_learningproj\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|c:\\users\\connor\\source\\repos\\cqrs_mediatr_learningproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{724AC3F7-5C5D-413A-BAA9-1869D2037520}|CQRS_Mediatr_LearningProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15CC288-E1A0-4804-A286-8A1A647205D3}|..\\LearningLibrary\\LearningLibrary.csproj|c:\\users\\connor\\source\\repos\\learninglibrary\\learninglibrarymediatrentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +25,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T12:45:48.26Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -40,6 +38,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T12:32:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T12:31:24.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LearningLibraryMediatrEntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\LearningLibrary\\LearningLibraryMediatrEntryPoint.cs",
+              "RelativeDocumentMoniker": "..\\LearningLibrary\\LearningLibraryMediatrEntryPoint.cs",
+              "ToolTip": "C:\\Users\\Connor\\source\\repos\\LearningLibrary\\LearningLibraryMediatrEntryPoint.cs",
+              "RelativeToolTip": "..\\LearningLibrary\\LearningLibraryMediatrEntryPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:27:41.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Connor\\source\\repos\\CQRS_Mediatr_LearningProj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:45:48.26Z",
+              "EditorCaption": ""
             }
           ]
         }
